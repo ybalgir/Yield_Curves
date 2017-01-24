@@ -1,4 +1,4 @@
-# Yield_Curves
+# Yield Curves
 
 The purpose of this public repository is just to give a small demo of the underlying concept.
 
